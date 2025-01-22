@@ -16,3 +16,4 @@ OLDER VERSION OF REDDIT WEBSITE FOR REFERENCE
 ![Image](https://github.com/user-attachments/assets/3db3a838-18d5-4a56-be09-62afc9a21918)
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/311c01ac-0cd8-42d5-ac13-7c147578878b)
