@@ -11,3 +11,8 @@ DESCRIPTION :
 
 Redesigning the website landing page of reddit older version
 In this project i have redesigned the older version of reddit webiste landing page by using figma.
+
+OLDER VERSION OF REDDIT WEBSITE FOR REFERENCE
+![Image](https://github.com/user-attachments/assets/3db3a838-18d5-4a56-be09-62afc9a21918)
+
+OUTPUT:
